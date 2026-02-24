@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pratiksha Kaushik</h1>
 <h3 align="center">
-MS Data Analytics @ SJSU | Data Engineer | Agentic AI & LLM Systems Builder
+MS in Applied Data Intelligence @ SJSU | Data Engineer | Agentic AI & LLM Systems Builder
 </h3>
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a> •
-  <a href="https://www.linkedin.com/in/YOUR_LINK/">LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a>
-</p>
 
----
 
 ## 🚀 About Me
 
