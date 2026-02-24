@@ -123,24 +123,9 @@ End-to-end machine learning application:
 
 ---
 
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
-
----
-
 ## 🎯 Career Mission
 
 To engineer intelligent, scalable, and autonomous AI systems that integrate data infrastructure, machine learning, and real-time decision making.
-
----
-
-## 🤝 Connect With Me
-
-LinkedIn → https://www.linkedin.com/in/YOUR_LINK/  
-Email → YOUR_EMAIL  
 
 ---
 
