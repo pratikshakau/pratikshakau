@@ -11,7 +11,7 @@ I design and build **production-ready data and AI systems** — from scalable ET
 
 My work focuses on **Agentic AI architectures, distributed data engineering, and real-world ML deployment**.
 
-🎓 MS Data Analytics — San José State University  
+🎓 MS Data Analytics/ Applied Data Intelligence — San José State University  
 ⚡ Specializing in AI systems + data platforms  
 🔬 Interested in intelligent autonomous workflows  
 💼 Seeking Data Engineering / AI / ML roles  
